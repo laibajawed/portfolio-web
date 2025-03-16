@@ -12,6 +12,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>Next.js</li>
         <li>TypeScript</li>
+        <li>Python</li>
         <li>Tailwind CSS</li>
         <li>HTML</li>
         <li>CSS</li>

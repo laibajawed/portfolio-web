@@ -43,13 +43,22 @@ const projectsData = [
     previewUrl: "https://laibasdynamicresume.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Blog Website",
     description: "Built with Tailwind CSS, Next js, Sanity and TypeScript for dynamic user experiences.",
     image: "projects/5.jpeg",
     tag: ["All"],
     gitUrl: "/",
     previewUrl: "https://sanity-blog-website-three.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Ecommerce Website",
+    description: "Built with Tailwind CSS, Next js, Sanity and TypeScript for dynamic user experiences.",
+    image: "projects/6.png",
+    tag: ["All"],
+    gitUrl: "/",
+    previewUrl:"https://zylen-ecom-website-fchfemotc-laiba-jaweds-projects.vercel.app/",
   },
 
 ];
